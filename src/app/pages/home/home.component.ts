@@ -182,4 +182,7 @@ export class HomeComponent {
   }
   // End: Required for demo purpose
 
+  uploadAvatar($event: string) {
+    console.log('avatar ---> ', $event);
+  }
 }

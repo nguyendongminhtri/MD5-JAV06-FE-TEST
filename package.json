@@ -50,6 +50,8 @@
     "@angular/common": "^11.1.2",
     "@angular/compiler": "^11.1.2",
     "@angular/core": "^11.1.2",
+    "@angular/fire": "^6.1.5",
+    "firebase": "^8.8.0",
     "@angular/forms": "^11.1.2",
     "@angular/material": "^11.1.2",
     "@angular/platform-browser": "^11.1.2",
